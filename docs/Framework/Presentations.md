@@ -17,6 +17,7 @@ Public talks and podcast appearances about the NAF Framework. Slide decks are ei
 
 | Date | Podcast | Episode | Guest(s) | Link |
 | --- | --- | --- | --- | --- |
+| 2026-08 | Between 0x2 Nerds | Practical Applications of the Network Automation Framework | Claudia de Luna | [Watch](https://www.youtube.com/live/6fqtYk48kMs) |
 | 2026-04 | Total Network Operations (Packet Pushers) | TNO060 — Think Like an Architect | Damien Garros | [Listen](https://packetpushers.net/podcasts/total-network-operations/tno060-think-like-an-architect/) |
 | 2026-04 | Between 0x2 Nerds | Network Automation Framework with Dinesh Dutt | Dinesh Dutt | [Listen](https://youtu.be/0ZfcibsVHFg?si=Kqj_ITj5Bczzc0q3) |
 
